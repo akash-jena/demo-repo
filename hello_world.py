@@ -7,3 +7,4 @@ print('hello hrudhai')
 '''what are you doing?'''
 
 hello()
+"hello"
